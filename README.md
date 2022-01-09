@@ -39,3 +39,6 @@ As for the Standard Deviation we can see that in December shows 3.75 and in June
 ## Summary:
 
 
+From the data that was collected and the summary for each of the 2 months we can know the temperatures for each of the months. But this is not showing the different things in the weather such as humidity and rain, things that could affect the weather and how it feels. This means that we can run different queries to help know and determine better results to help with knowing to open the shop or not. The more data results we have the more we can tell and have a better detailed report. 
+
+
